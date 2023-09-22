@@ -1,0 +1,20 @@
+{
+    "name":"Yashas" ,
+    "age":30 ,
+    "Address":"Hyderabad" ,
+    "Skills":["PowerBi","Html & CSS","Linux"]
+ 
+    "Experience":[
+        {
+            "Comanyname":"HCL",
+            "Location":"Hyderabad",
+            "Duration":"3 Months"
+        },
+        {
+            "Comanyname":"Self",
+            "Location":"Hyderabad",
+            "Duration":"Present"
+        }
+        
+    ]
+}
